@@ -7,3 +7,4 @@ Write a Python program using Object-Oriented Programming to manage a to-do list.
 The program should include the following features:
 • Exception handling: The program should handle exceptions in case the user enters an invalid option or a position that does not exist in the list.
 • Explanatory comments: The code should be commented to explain its functionality in each relevant part.
+
